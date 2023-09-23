@@ -93,8 +93,7 @@ public class Tape {
     //processInput display instructions' output after commenting out the lines above
         String input = "abc>def?";
         t.processInput(input);
-        
-        // TODO: complete this definition with more testing as in the write-up
+
     }     
     
 }
