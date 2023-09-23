@@ -1,6 +1,3 @@
-// CS 201 Homework 4 - Tape
-// Name: Esdras Ntuyenabo
-
 import java.util.ArrayList;
 
 public class Tape {
